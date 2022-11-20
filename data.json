@@ -1,0 +1,89 @@
+{
+  "first_slide" : {
+    "image_path" : "product.jpeg",
+    "title": "Умные часы",
+    "subtitle": "с использованием машинного обучения"
+  },
+  "second_slide" : {
+    "text_1_1": "Описание продукта",
+    "text_2_1": "Название рынка",
+    "text_1_2": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.\n",
+    "text_2_2": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.\n"
+  },
+
+  "third_slide" : {
+    "title": "Конкуренты",
+    "paragraph_1" : "Конкуренты:\t",
+    "paragraph_2" : "уникальность продукта:\t",
+    "paragraph_3" : "Почему мы лучше?\t",
+    "text_1": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.\n",
+    "text_2": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.\n",
+    "text_3": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.\n"
+  },
+
+  "fourth_slide": {
+      "path2plot": "fourth_plot.png",
+      "paragraph_1": "выручка",
+      "paragraph_2": "прибыль",
+      "paragraph_3": "прогн. выручка",
+      "paragraph_4": "прогн. прибыль",
+
+      "years": {
+        "2021": {
+          "выручка" : "1_000_000.045",
+          "прибыль": "500_123.43"
+        },
+        "2022": {
+          "выручка" : "900_000.045",
+          "прибыль": "600_123.43"
+        },
+        "2023": {
+          "выручка" : "800_000.045",
+          "прибыль": "300_123.43"
+        },
+        "2024": {
+          "выручка" : "1200_000.045",
+          "прибыль": "400_123.43"
+        },
+        "2025": {
+          "выручка" : "1800_000.045",
+          "прибыль": "600_123.43"
+        }
+      }
+  },
+  "fifth_slide" : {
+    "text_1": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.\n",
+    "text_2": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.\n"
+    },
+
+  "sixth_slide" : {
+    "members" : {
+      "Ivan Ivanov" : {
+        "position": "Senior DevOps",
+        "experience" : 10
+      },
+      "Boris Ivanov" : {
+        "position": "Senior Frontend",
+        "experience" : 8
+      },
+      "Ivan Borisov" : {
+        "position": "Senior Backend",
+        "experience" : 11
+      },
+      "Boris Borisov" : {
+        "position": "Senior MLE",
+        "experience" : 6
+      },
+      "BIvan BIvanov" : {
+        "position": "Product Manager",
+        "experience" : 15
+      }
+    }
+  },
+  "seventh_slide" : {
+      "name" : "Иванов Григорий Никовлаевич",
+      "number" : "+7 995 192 29 21",
+      "email" : "ivanov@gmail.com",
+      "telegram" : "@ivanov"
+  }
+}
